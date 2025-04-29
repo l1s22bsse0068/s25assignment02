@@ -1,15 +1,17 @@
+h2{
+    background-color: azure;
+}
 h1{
     color: black;
 }
 h2 {
-    background-color: azure;
+ 
     color: #333;
     text-align: center;
   
 }
 body{
     font-family: 'Times New Roman', Times, serif;
-
 }
 h1{
     stroke-width: 0%;
